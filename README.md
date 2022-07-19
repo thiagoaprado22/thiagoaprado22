@@ -1,8 +1,8 @@
 ### Opa ! 👋 eu sou o Thiago Prado, estudante iniciante de programação e tecnologia ! 
 <div align="center">
   <a href="https://github.com/thiagoaprado22">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagoaprado22&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaprado22&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thiagoaprado22&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaprado22&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
