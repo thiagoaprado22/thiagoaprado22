@@ -1,4 +1,4 @@
-### Opa ! 👋 eu sou o Thiago Prado, estudante iniciante de programação e tecnologia
+### Opa ! 👋 eu sou o Thiago Prado, estudante iniciante de programação e tecnologia ! 
 <div align="center">
   <a href="https://github.com/thiagoaprado22">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagoaprado22&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
