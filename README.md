@@ -1,7 +1,7 @@
-# Opa ! 👋 eu sou o Thiago Prado.
+# Opa ! 👋 eu sou o Thiago
 
 * Graduado em Ciênicas Biológicas
-* Especialista em Filosofia Contemporânea - CNPq
+* Especialista em Filosofia Contemporânea
 * Estudante de Ciências de Dados, Programação e Bioinformatica
 
 <div> 
@@ -28,6 +28,17 @@
   
 ##
 
+### Repositório com meus projetos em Ciência de Dados
+Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na área de Data Science e Machine Learning.  
+ 
+#####  * Social Data Science 
+###### * População em Situação de Rua - Belo Horizonte - Dados de Março de 2022. 
+#####  * Data Science
+#####  * Bioinformatica
+  
+##
+  
+  
 ### Desenvolvimento:
 </div>
 <div align="center">
@@ -35,10 +46,9 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=thiagoaprado22&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaprado22&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-  
-  ##
- 
  
   ![Snake animation](https://github.com/thiagoaprado22/thiagoaprado22/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
