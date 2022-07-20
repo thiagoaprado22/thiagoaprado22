@@ -32,7 +32,7 @@
 Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na área de Data Science e Machine Learning.  
  
 #####  * Social Data Science 
-###### * População em Situação de Rua - Belo Horizonte - Dados de Março de 2022. 
+###### [* População em Situação de Rua - Belo Horizonte - Dados de Março de 2022]. 
 #####  * Data Science
 #####  * Bioinformatica
   
