@@ -1,4 +1,4 @@
-# Opa ! 👋 eu sou o Thiago
+# Opa ! 👋 eu sou o Thiago e sou iniciante nesse área do conhecimento e tô fazendo o melhor que conisgo !
 
 * Graduado em Ciênicas Biológicas
 * Especialista em Filosofia Contemporânea
