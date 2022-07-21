@@ -1,4 +1,4 @@
-## Opa ! 👋 sou o Thiago e sou iniciante nesse área do conhecimento, tô animado e dando o melhor de mim !
+## Opa ! 👋 sou iniciante nesse área do conhecimento, tô animado e dando o melhor de mim !
 
 * Graduado em Ciênicas Biológicas
 * Especialista em Filosofia Contemporânea
@@ -30,7 +30,7 @@
 ##
 
 ### Repositório com meus projetos em Ciência de Dados
-Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na área de Data Science e Machine Learning.  
+Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na área de Data Science e Machine Learning. Claro, em constante construção, principalmente neste início. 
  
 #####  * Social Data Science 
 ###### [* População em Situação de Rua - Belo Horizonte - Dados de Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
