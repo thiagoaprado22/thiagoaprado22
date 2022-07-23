@@ -33,10 +33,10 @@
 Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na área de Data Science e Machine Learning. Claro, em constante construção, principalmente neste início. 
  
 #####  * Social Data Science 
-###### [* População em Situação de Rua - Belo Horizonte - Dados de Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
-
+###### [* Projeto de analise da População em Situação de Rua de Belo Horizonte em Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience)<br/>
 #####  * Data Science
-       [* PROJETO DE ANALISE EXPLORATORIA DO VALOR DO METRO QUADRADO EM BELO HORIZONTE](https://github.com/thiagoaprado22/Data_Science-)
+###### [* Projeto de analise exploratria do Valor do m2 em Belo Horizonte](https://github.com/thiagoaprado22/Data_Science-)<br/>
+       
 #####  * Bioinformatica
   
 ##
