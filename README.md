@@ -42,7 +42,10 @@ Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na 
 ##
   
 ### Artigos:   
-  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link= https://medium.com/@thiagoaprado22)](https://medium.com/@thiagoaprado22)
+  
+###### [*Ciência de dados sociais ou ainda ciências sociais computacionais (CSS): é possível usar abordagens computacionais para analisar e prever fenômenos sociais ?](https://medium.com/@thiagoaprado22/ci%C3%AAncia-de-dados-sociais-ou-ainda-ci%C3%AAncias-sociais-computacionais-css-%C3%A9-poss%C3%ADvel-usar-abordagens-bbdcc6184558)  
+  
+##
   
 ### Desenvolvimento:
 </div>
