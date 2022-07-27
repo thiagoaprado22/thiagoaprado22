@@ -20,7 +20,7 @@
 
 2 - Data Science
 
-3 - Introdução a Bioinformatica
+3 - Bioinformatica
 
 
 </div>
