@@ -41,6 +41,8 @@ Aqui você encontra os notebooks dos meus projetos de aprendizagem aplicados na 
   
 ##
   
+### Artigos:   
+  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link= https://medium.com/@thiagoaprado22)](https://medium.com/@thiagoaprado22)
   
 ### Desenvolvimento:
 </div>
