@@ -32,12 +32,12 @@
 ### Repositório com meus projetos em Ciência de Dados
 Aqui você encontra os notebooks dos meus projetos iniciais de aprendizagem aplicados na área de Data Science e Machine Learning. Claro, em constante construção, principalmente neste início. 
 
-O objetivo é armazenar, visualizar e praticar as informações estudadas em projetos de minha autoria. Durante um bom tempo, a legenda será Work in Progress (WIP). 
+O objetivo é armazenar, visualizar e praticar as informações estudadas em projetos de minha autoria. Durante algum tempo, a legenda dos projetos indicará: Work in Progress (WIP), ou seja, em formação de acordo meu avanço nos estudos.
  
 #####  * Social Data Science 
-###### [* Projeto de analise da População em Situação de Rua de Belo Horizonte em Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience)<br/ [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
+###### [* Projeto de analise da População em Situação de Rua de Belo Horizonte em Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience) [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
 #####  * Data Science
-###### [* Projeto de analise exploratoria do Valor do m2 em Belo Horizonte](https://github.com/thiagoaprado22/Data_Science-)<br/>
+###### [* Projeto de analise exploratoria do Valor do m2 em Belo Horizonte](https://github.com/thiagoaprado22/Data_Science-) [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/thiagoaprado22/Social_Data_Science_Experience)<br/>
        
 #####  * Bioinformatica
   
