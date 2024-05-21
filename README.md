@@ -2,7 +2,7 @@
 
 * Graduado em Ciênicas Biológicas
 * Especialista em Filosofia Contemporânea
-* Estudante de Ciências de Dados, Programação e Bioinformatica
+* Aprendiz do Mundo
 
 <div> 
    <a href="https://discord.gg/VXCPZkTR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -15,11 +15,7 @@
 
 ### Formação em Progresso:
 
-1 - Python para DataScience
-
-2 - Data Science
-
-3 - Bioinformatica
+1 - Psicanalise
 
 
 </div>
