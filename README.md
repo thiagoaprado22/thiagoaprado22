@@ -1,7 +1,8 @@
-## Opa ! 👋 sou iniciante nesse área do conhecimento, tô animado e dando o melhor de mim !
+## Opa ! Aprendendo e experenciando de tudo um pouco. 
 
 * Graduado em Ciênicas Biológicas
 * Especialista em Filosofia Contemporânea
+* Entusiasta de Psicologia e Psicanalise
 * Aprendiz do Mundo
 
 <div> 
