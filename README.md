@@ -2,7 +2,7 @@
 
 ### Servidor Técnico-Administrativo na UFMG | Cientista de Dados & Entusiasta de IoT
 
-Atuo na intersecção entre **gestão pública**, **governança** e **tecnologia**. Minha experiência envolve compras públicas, otimização de processos operacionais e o desenvolvimento de sistemas de apoio à tomada de decisão. Busco aplicar a Ciência de Dados para entender fenômenos sociais e conciliar a exatidão técnica com uma visão humanística profunda.
+Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha experiência envolve compras públicas, otimização de processos operacionais e o desenvolvimento de sistemas de apoio à tomada de decisão. Busco aplicar a Ciência de Dados para entender fenômenos sociais e conciliar a exatidão técnica com uma visão humanística profunda.
 
 ---
 
