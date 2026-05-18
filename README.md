@@ -4,7 +4,7 @@ Servidor técnico-administrativo na UFMG.
 
 Atuação em compras públicas, gestão operacional e desenvolvimento de sistemas de apoio à governança.
 
-##Interesses:<br>
+## Interesses:<br>
 • Ciência de Dados<br>
 • Gestão Pública<br>
 • Filosofia Contemporânea<br>
