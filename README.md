@@ -52,10 +52,12 @@ Espaço voltado para o desenvolvimento de sistemas de apoio à tomada de decisã
 
 ## 🚌 Projeto Kombi Odisseia (Hardware & IoT)
 
-Espaço dedicado ao desenvolvimento de soluções embarcadas e automação usando **Arduino** e outros componentes de hardware para o ecossistema da Kombi Odisseia.
+> *"Voar não vem das asas..."* — Mia Couto
 
-* 🛠️ **Automação e Sensores:** Desenvolvimento de componentes sob medida para monitoramento e controle operacional interno.
-* ⚡ **Sistemas Embarcados:** Programação em C/C++ voltada para a otimização de recursos físicos e autonomia de sistemas.
+A Kombi Odisseia é um projeto de **Kombi Home** construído com a intenção de ser uma asa para o mundo. Para torná-la autônoma e funcional, utilizo o projeto como um laboratório prático de engenharia de hardware e automação.
+
+* **O que é:** Desenvolvimento e montagem de componentes e sensores customizados via **Arduino** (C/C++).
+* **Foco Prático:** Criação de soluções sob medida para automação interna, monitoramento operacional do veículo, controle de recursos físicos e eficiência energética para a vida na estrada.
 
 ---
 
