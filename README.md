@@ -2,6 +2,7 @@
 
 * Graduado em Ciênicas Biológicas
 * Especialista em Filosofia Contemporânea
+* Servidor técnico-administrativo na UFMG
 * Entusiasta de Psicologia e Psicanalise
 * Aprendiz do Mundo
 
