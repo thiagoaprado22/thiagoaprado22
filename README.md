@@ -5,10 +5,10 @@ Servidor técnico-administrativo na UFMG.
 Atuação em compras públicas, gestão operacional e desenvolvimento de sistemas de apoio à governança.
 
 Interesses:
-• Ciência de Dados
-• Gestão Pública
-• Filosofia Contemporânea
-• Psicologia e Psicanálise
+• Ciência de Dados<br>
+• Gestão Pública<br>
+• Filosofia Contemporânea<br>
+• Psicologia e Psicanálise<br>
 
 <div> 
    <a href="https://discord.gg/VXCPZkTR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
