@@ -1,11 +1,14 @@
 ## Opa ! Aprendendo e experenciando de tudo um pouco. 
 
+Servidor técnico-administrativo na UFMG.
+
+Atuação em compras públicas, gestão operacional e desenvolvimento de sistemas de apoio à governança.
+
 Interesses:
 • Ciência de Dados
-• Governança Pública
+• Gestão Pública
 • Filosofia Contemporânea
 • Psicologia e Psicanálise
-• Sistemas de apoio à decisão
 
 <div> 
    <a href="https://discord.gg/VXCPZkTR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
