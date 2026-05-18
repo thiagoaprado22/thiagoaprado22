@@ -1,4 +1,4 @@
-## Opa ! Aprendendo e experenciando de tudo um pouco. 
+## Thiago Almeida Prado. 
 
 Servidor técnico-administrativo na UFMG.
 
