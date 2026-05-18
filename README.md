@@ -2,8 +2,7 @@
 
 ### Servidor Técnico-Administrativo na UFMG |
 
-Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
-
+Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. 
 Minha capacidade de análise e leitura de cenários é estruturada de forma multidisciplinar por meio de experiências que se integram: 
 * **Ciências Biológicas & Comportamento:** Sou graduado em Ciências Biológicas e atuei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte, o que me deu uma base empírica sólida na observação e identificação de padrões.
 * **Humanidades & Crítica:** Possuo especialização em Filosofia Contemporânea e sigo em formação contínua em Psicanálise, fundamentando a análise teórica e a compreensão dos processos humanos.
