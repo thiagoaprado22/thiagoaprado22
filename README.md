@@ -1,6 +1,6 @@
 # Olá, eu sou o Thiago Almeida Prado! 👋
 
-### Servidor Técnico-Administrativo na UFMG |
+### Servidor na UFMG | Licitações, Dados e Comportamento | Construtor da Kombi Odisseia
 
 Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. 
 Minha capacidade de análise e leitura de cenários é estruturada de forma multidisciplinar por meio de experiências que se integram: 
