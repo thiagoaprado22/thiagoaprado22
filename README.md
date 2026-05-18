@@ -2,7 +2,7 @@
 
 ### Servidor Técnico-Administrativo na UFMG | Cientista de Dados & Entusiasta de IoT
 
-Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações, pré-compras e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
+Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
 
 Construí minha capacidade de análise e leitura de cenários a partir de experiências diversas que se integram: trabalhei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte — o que me deu uma base empírica sólida de observação de padrões — e mantenho uma formação contínua em Filosofia Contemporânea e Psicanálise para fundamentar uma visão crítica e holística dos processos humanos.
 
