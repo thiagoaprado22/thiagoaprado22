@@ -26,15 +26,15 @@ Atuação em compras públicas, gestão operacional e desenvolvimento de sistema
 ##
 
 ### Repositório com meus projetos em Ciência de Dados
-Repositório voltado a projetos de análise de dados, gestão operacional e estudos aplicados em ciência de dados.
+Repositório voltado a projetos de análise de dados, gestão operacional e estudos aplicados em ciência de dados.<br>
 
-Os projetos envolvem:
-• análise exploratória;
-• visualização de dados;
-• modelagem operacional;
-• aplicações em gestão pública e fenômenos sociais.
+Os projetos envolvem:<br>
+• análise exploratória;<br>
+• visualização de dados;<br>
+• modelagem operacional;<br>
+• aplicações em gestão pública e fenômenos sociais.<br>
 
-Alguns projetos encontram-se em evolução contínua (WIP).
+Alguns projetos encontram-se em evolução contínua (WIP).<br>
  
 #####  * Social Data Science 
 ###### [* Projeto de analise da População em Situação de Rua de Belo Horizonte em Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience) [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
