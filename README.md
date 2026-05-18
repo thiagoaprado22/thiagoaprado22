@@ -4,7 +4,11 @@
 
 Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
 
-Construí minha capacidade de análise e leitura de cenários a partir de experiências diversas que se integram: trabalhei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte — o que me deu uma base empírica sólida de observação de padrões — e mantenho uma formação contínua em Filosofia Contemporânea e Psicanálise para fundamentar uma visão crítica e holística dos processos humanos.
+Minha capacidade de análise e leitura de cenários é estruturada de forma multidisciplinar por meio de experiências que se integram: 
+* **Ciências Biológicas & Comportamento:** Sou graduado em Ciências Biológicas e atuei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte, o que me deu uma base empírica sólida na observação e identificação de padrões.
+* **Humanidades & Crítica:** Possuo especialização em Filosofia Contemporânea e sigo em formação contínua em Psicanálise, fundamentando a análise teórica e a compreensão dos processos humanos.
+
+Atualmente, dedico meus esforços a pensar e aplicar a Ciência de Dados (com foco em Ciência de Dados Sociais). Utilizo ferramentas computacionais como um meio técnico para estruturar dados públicos, otimizar a tomada de decisões na gestão administrativa e compreender fenômenos sociais complexos de forma holística.
 
 Atualmente, dedico meus esforços a pensar e aplicar a Ciência de Dados (especialmente a Ciência de Dados Sociais). Busco utilizar ferramentas computacionais não apenas como métricas isoladas, mas como um meio técnico para estruturar dados públicos, otimizar a tomada de decisões na gestão e compreender fenômenos sociais complexos.
 
