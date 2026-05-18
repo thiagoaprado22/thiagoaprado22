@@ -2,7 +2,9 @@
 
 ### Servidor Técnico-Administrativo na UFMG | Cientista de Dados & Entusiasta de IoT
 
-Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha experiência envolve compras públicas, otimização de processos operacionais e o desenvolvimento de sistemas de apoio à tomada de decisão. Busco aplicar a Ciência de Dados para entender fenômenos sociais e conciliar a exatidão técnica com uma visão humanística profunda.
+Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Guiado por uma visão integradora e multidisciplinar para compreender sistemas complexos e fenômenos sociais. Minha trajetória combina a otimização de processos e desenvolvimento de sistemas de apoio à governança na UFMG com uma sólida bagagem prática em análise de comportamento animal, adquirida ao longo de anos de atuação como tratador no **Zoológico de Belo Horizonte**. 
+
+Essa vivência empírica na identificação de padrões de comportamento se une de forma sinérgica à minha formação contínua em **Filosofia Contemporânea** e **Psicanálise**. O objetivo é ir além dos números: utilizar a Ciência de Dados Sociais (CSS) para analisar estruturas estruturadas, conciliando a exatidão técnica da tecnologia com uma leitura humanística, crítica e holística da realidade.
 
 ---
 
