@@ -2,7 +2,11 @@
 
 ### Servidor Técnico-Administrativo na UFMG | Cientista de Dados & Entusiasta de IoT
 
-Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Guiado por uma visão integradora e multidisciplinar para compreender sistemas complexos e fenômenos sociais. Minha trajetória combina a otimização de processos e desenvolvimento de sistemas de apoio à governança na UFMG com uma sólida bagagem prática em análise de comportamento animal, adquirida ao longo de anos de atuação como tratador no **Zoológico de Belo Horizonte**. 
+Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações, pré-compras e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
+
+Construí minha capacidade de análise e leitura de cenários a partir de experiências diversas que se integram: trabalhei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte — o que me deu uma base empírica sólida de observação de padrões — e mantenho uma formação contínua em Filosofia Contemporânea e Psicanálise para fundamentar uma visão crítica e holística dos processos humanos.
+
+Atualmente, dedico meus esforços a pensar e aplicar a Ciência de Dados (especialmente a Ciência de Dados Sociais). Busco utilizar ferramentas computacionais não apenas como métricas isoladas, mas como um meio técnico para estruturar dados públicos, otimizar a tomada de decisões na gestão e compreender fenômenos sociais complexos.
 
 Essa vivência empírica na identificação de padrões de comportamento se une de forma sinérgica à minha formação contínua em **Filosofia Contemporânea** e **Psicanálise**. O objetivo é ir além dos números: utilizar a Ciência de Dados Sociais (CSS) para analisar estruturas estruturadas, conciliando a exatidão técnica da tecnologia com uma leitura humanística, crítica e holística da realidade.
 
