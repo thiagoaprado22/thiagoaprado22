@@ -8,8 +8,6 @@ Minha capacidade de análise e leitura de cenários é estruturada de forma mult
 * **Ciências Biológicas & Comportamento:** Sou graduado em Ciências Biológicas e atuei por anos na área comportamental como tratador de animais no Zoológico de Belo Horizonte, o que me deu uma base empírica sólida na observação e identificação de padrões.
 * **Humanidades & Crítica:** Possuo especialização em Filosofia Contemporânea e sigo em formação contínua em Psicanálise, fundamentando a análise teórica e a compreensão dos processos humanos.
 
-Atualmente, dedico meus esforços a pensar e aplicar a Ciência de Dados (com foco em Ciência de Dados Sociais). Utilizo ferramentas computacionais como um meio técnico para estruturar dados públicos, otimizar a tomada de decisões na gestão administrativa e compreender fenômenos sociais complexos de forma holística.
-
 Atualmente, dedico meus esforços a pensar e aplicar a Ciência de Dados (especialmente a Ciência de Dados Sociais). Busco utilizar ferramentas computacionais não apenas como métricas isoladas, mas como um meio técnico para estruturar dados públicos, otimizar a tomada de decisões na gestão e compreender fenômenos sociais complexos.
 
 Essa vivência empírica na identificação de padrões de comportamento se une de forma sinérgica à minha formação contínua em **Filosofia Contemporânea** e **Psicanálise**. O objetivo é ir além dos números: utilizar a Ciência de Dados Sociais (CSS) para analisar estruturas estruturadas, conciliando a exatidão técnica da tecnologia com uma leitura humanística, crítica e holística da realidade.
