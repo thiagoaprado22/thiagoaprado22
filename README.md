@@ -1,10 +1,11 @@
 ## Opa ! Aprendendo e experenciando de tudo um pouco. 
 
-* Graduado em Ciênicas Biológicas
-* Especialista em Filosofia Contemporânea
-* Servidor técnico-administrativo na UFMG
-* Entusiasta de Psicologia e Psicanalise
-* Aprendiz do Mundo
+Interesses:
+• Ciência de Dados
+• Governança Pública
+• Filosofia Contemporânea
+• Psicologia e Psicanálise
+• Sistemas de apoio à decisão
 
 <div> 
    <a href="https://discord.gg/VXCPZkTR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -22,9 +23,15 @@
 ##
 
 ### Repositório com meus projetos em Ciência de Dados
-Aqui você encontra os notebooks dos meus projetos iniciais de aprendizagem aplicados na área de Data Science e Machine Learning. Claro, em constante construção, principalmente neste início. 
+Repositório voltado a projetos de análise de dados, gestão operacional e estudos aplicados em ciência de dados.
 
-O objetivo é armazenar, visualizar e praticar as informações estudadas em projetos de minha autoria. Durante algum tempo, a legenda dos projetos indicará: Work in Progress (WIP), ou seja, em formação de acordo meu avanço nos estudos.
+Os projetos envolvem:
+• análise exploratória;
+• visualização de dados;
+• modelagem operacional;
+• aplicações em gestão pública e fenômenos sociais.
+
+Alguns projetos encontram-se em evolução contínua (WIP).
  
 #####  * Social Data Science 
 ###### [* Projeto de analise da População em Situação de Rua de Belo Horizonte em Março de 2022](https://github.com/thiagoaprado22/Social_Data_Science_Experience) [![stability-wip](https://img.shields.io/badge/stability-wip-lightgrey.svg)](https://github.com/thiagoaprado22/Social_Data_Science_Experience)
@@ -42,7 +49,3 @@ O objetivo é armazenar, visualizar e praticar as informações estudadas em pro
 ##
   
 ### Desenvolvimento:
-
-
----
-*Nota: Este repositório foi atualizado automaticamente pelo Manus AI durante um teste de integração com o conector GitHub em 01/05/2026.*
