@@ -1,6 +1,6 @@
 # Olá, eu sou o Thiago Almeida Prado! 👋
 
-### Servidor Técnico-Administrativo na UFMG | Cientista de Dados & Entusiasta de IoT
+### Servidor Técnico-Administrativo na UFMG |
 
 Estou interessado na intersecção entre **gestão pública**, **governança**,  **tecnologia**, **filosofia** e **psicanalise**. Minha atuação profissional é centrada no setor público, onde acumulo anos de experiência prática à frente de setores de licitações e apoio administrativo na UFMG. Minha rotina envolve lidar com a complexidade de processos operacionais, compras públicas e o desenvolvimento de sistemas práticos voltados para a governança institucional. 
 
